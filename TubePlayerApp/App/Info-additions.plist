@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Merge these keys into your Xcode-generated Info.plist (or set the equivalent
+  values in the target's Info tab / Signing & Capabilities).
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>audio</string>
+    </array>
+</dict>
+</plist>
